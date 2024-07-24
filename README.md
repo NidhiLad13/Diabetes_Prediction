@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# ML_Project
+Your local changes...
 =======
-# Diabetes_Prediction
->>>>>>> 9395982fa4a33586337d0c1938745316b0dccb03
+Remote changes...
+>>>>>>> main
